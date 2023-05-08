@@ -66,8 +66,8 @@ export const heroData: Hero = {
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         In my free time time, you can catch me learning more about{' '}
         <strong className="text-stone-100">Personal Finance</strong>, or working out on the{' '}
-        <strong className="text-stone-100">squash</strong> and,
-        <strong className="text-stone-100">tennis</strong> courts.
+        <strong className="text-stone-100">squash</strong> and <strong className="text-stone-100">tennis</strong>{' '}
+        courts.
       </p>
     </>
   ),
