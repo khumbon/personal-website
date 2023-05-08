@@ -35,6 +35,7 @@ const Hero = () => {
                     'flex gap-x-2 rounded-full border-2 bg-none py-2 px-4 text-sm font-medium text-white ring-offset-gray-700/80 hover:bg-gray-700/80 focus:outline-none focus:ring-2 focus:ring-offset-2 sm:text-base',
                     primary ? 'border-orange-500 ring-orange-500' : 'border-white ring-white',
                   )}
+                  download
                   href={href}
                   key={text}>
                   {text}
